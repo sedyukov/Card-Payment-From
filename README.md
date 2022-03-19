@@ -1,7 +1,7 @@
 # DataSubClient
 
 ## Сначала установить зависимости
-### npm intall
+### npm install
 
 ## Для запуска
 ### npm start
